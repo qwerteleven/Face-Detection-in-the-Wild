@@ -1,0 +1,18 @@
+Neural networks convolutional
+
+
+PCA          -> look
+LBP          -> look
+Haar         -> look
+LDA          -> look
+GABOR
+SVMA
+Viola-jones
+adaboost
+LRN+RSA
+RPN
+STN
+LRN
+Faster RCNN
+joint cascade
+hyperface
