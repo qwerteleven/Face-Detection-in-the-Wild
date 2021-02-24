@@ -1,0 +1,3936 @@
+HOG 109
+fog_1.jpg 4.210837125778198 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.052767276763916016 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.22121691703796387 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.034357309341430664 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.036376237869262695 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.01851344108581543 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.015957355499267578 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.04588937759399414 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.261218786239624 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.08461427688598633 seconds 
+predict_points 533.5 306.5 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.027867555618286133 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.05801510810852051 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.09088325500488281 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.017267227172851562 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.03051018714904785 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.05909276008605957 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.049451351165771484 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.018972158432006836 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.03732609748840332 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.062331199645996094 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.01798105239868164 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.3179304599761963 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.033757925033569336 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.03795433044433594 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.07634568214416504 seconds 
+predict_points 237.5 389.5 341.5 364.0 452.5 269.0 639.0 393.0 560.5 325.0 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.05028963088989258 seconds 
+predict_points 264.5 365.0 380.5 373.0 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.05313372611999512 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.03560996055603027 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.0354304313659668 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.030762910842895508 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.0798182487487793 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.038883209228515625 seconds 
+predict_points 456.5 277.0 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.07088088989257812 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.03725600242614746 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.05050230026245117 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.04653310775756836 seconds 
+predict_points 44.5 157.0 120.5 165.0 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.03890228271484375 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.05484271049499512 seconds 
+predict_points 448.5 365.0 591.0 406.0 24.5 305.5 236.5 357.0 400.5 341.0 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.03153681755065918 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.02058553695678711 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.05690646171569824 seconds 
+predict_points 184.5 153.0 360.5 89.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.019949913024902344 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.040148019790649414 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.041921377182006836 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.019583940505981445 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.031003713607788086 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.05536913871765137 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.02074408531188965 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.04935646057128906 seconds 
+predict_points 288.5 113.0 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.05704784393310547 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.02041172981262207 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.03159379959106445 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.48262953758239746 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.06045389175415039 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.14370942115783691 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.041893959045410156 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.02586674690246582 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.026147127151489258 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.02659153938293457 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.04473137855529785 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.07390999794006348 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.042788028717041016 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.060407400131225586 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.025792837142944336 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.0390009880065918 seconds 
+predict_points 70.5 181.5 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.025028228759765625 seconds 
+predict_points 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.04488325119018555 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.05784273147583008 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.0608370304107666 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.07978677749633789 seconds 
+predict_points 410.5 215.5 313.0 295.0 555.0 261.0 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.02573084831237793 seconds 
+predict_points 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.08689117431640625 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.10696816444396973 seconds 
+predict_points 423.0 330.5 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.04691672325134277 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.02599811553955078 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.04202914237976074 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.0842905044555664 seconds 
+predict_points 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.05862760543823242 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.09504866600036621 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.06199169158935547 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.028289079666137695 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.06373381614685059 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.06086564064025879 seconds 
+predict_points 372.5 229.0 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.025958776473999023 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.06633973121643066 seconds 
+predict_points 456.5 208.5 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.05884838104248047 seconds 
+predict_points 504.5 201.0 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.10452866554260254 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.02626800537109375 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.026706218719482422 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.08553147315979004 seconds 
+predict_points 380.5 257.0 
+labels_points 381.0 261.0 
+snow_2.jpg 0.07468795776367188 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.04736638069152832 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.06283092498779297 seconds 
+predict_points 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.045877695083618164 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.06238865852355957 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.025931835174560547 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.02593684196472168 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.025043249130249023 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.02596282958984375 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.04175734519958496 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.08505773544311523 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.02633953094482422 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.07580423355102539 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.025011539459228516 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.07734370231628418 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.07676458358764648 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.07613205909729004 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.04852461814880371 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.026114940643310547 seconds 
+predict_points 
+labels_points -1.0 
+YOLOv2Face 109
+fog_1.jpg 0.39789414405822754 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.16684985160827637 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.1605818271636963 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.1605997085571289 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.1690974235534668 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.1675562858581543 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.1790602207183838 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.16632986068725586 seconds 
+predict_points 313.5 292.0 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.16599202156066895 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.16707706451416016 seconds 
+predict_points 436.5 287.0 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.16557860374450684 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.18729758262634277 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.17553067207336426 seconds 
+predict_points 327.0 276.5 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.1645829677581787 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.16184473037719727 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.16354036331176758 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.16869568824768066 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.16577506065368652 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.1635732650756836 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.18414974212646484 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.16418933868408203 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.15924668312072754 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.1655564308166504 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.16409707069396973 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.1663670539855957 seconds 
+predict_points 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.18151044845581055 seconds 
+predict_points 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.16475725173950195 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.16271495819091797 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.16714000701904297 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.16615986824035645 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.1654372215270996 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.16497087478637695 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.19015836715698242 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.16709399223327637 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.1735081672668457 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.16856098175048828 seconds 
+predict_points 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.16655468940734863 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.16615056991577148 seconds 
+predict_points 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.17838001251220703 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.16755151748657227 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.1643376350402832 seconds 
+predict_points 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.16055059432983398 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.16401076316833496 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.1625528335571289 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.1828620433807373 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.16971802711486816 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.16356849670410156 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.16918063163757324 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.16350698471069336 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.16309189796447754 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.16507577896118164 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.18062376976013184 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.16057848930358887 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.1646885871887207 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.16059279441833496 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.16807079315185547 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.1673576831817627 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.18951678276062012 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.16905903816223145 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.1618657112121582 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.1613466739654541 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.16156792640686035 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.17162704467773438 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.1685495376586914 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.18209481239318848 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.1689438819885254 seconds 
+predict_points 215.0 104.0 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.1640458106994629 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.16443395614624023 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.169572114944458 seconds 
+predict_points 269.0 218.0 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.16429734230041504 seconds 
+predict_points 413.0 211.0 557.0 255.0 318.5 292.0 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.17660188674926758 seconds 
+predict_points 41.5 59.5 87.0 53.5 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.17026257514953613 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.16605472564697266 seconds 
+predict_points 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.17174863815307617 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.16427206993103027 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.16842865943908691 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.17743158340454102 seconds 
+predict_points 329.0 270.5 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.16455960273742676 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.1662740707397461 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.1683814525604248 seconds 
+predict_points 287.0 170.5 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.16954731941223145 seconds 
+predict_points 70.0 127.0 
+labels_points 69.5 127.0 
+snow_11.jpg 0.16057586669921875 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.16358494758605957 seconds 
+predict_points 358.0 146.0 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.18251657485961914 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.16456365585327148 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.16556096076965332 seconds 
+predict_points 121.0 201.5 509.5 203.5 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.1678943634033203 seconds 
+predict_points 350.5 324.5 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.16755223274230957 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.16455936431884766 seconds 
+predict_points 144.0 47.0 
+labels_points 143.0 46.0 
+snow_19.jpg 0.19131875038146973 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.1645042896270752 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.16854476928710938 seconds 
+predict_points 155.0 283.5 
+labels_points 591.0 303.5 
+snow_3.jpg 0.16456031799316406 seconds 
+predict_points 375.0 232.0 149.5 311.0 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.1742255687713623 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.16562199592590332 seconds 
+predict_points 343.5 255.0 
+labels_points 339.0 252.5 
+snow_6.jpg 0.1695253849029541 seconds 
+predict_points 132.5 55.5 
+labels_points 131.0 60.5 
+snow_7.jpg 0.17164254188537598 seconds 
+predict_points 135.5 73.5 
+labels_points 134.0 72.0 
+snow_8.jpg 0.16458868980407715 seconds 
+predict_points 176.5 82.0 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.1666555404663086 seconds 
+predict_points 134.0 94.0 
+labels_points 133.5 93.0 
+beach_!.png 0.17205572128295898 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.16496968269348145 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.16121840476989746 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.17955899238586426 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.16419315338134766 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.17146658897399902 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.1979529857635498 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.16756725311279297 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.1635420322418213 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.1715407371520996 seconds 
+predict_points 
+labels_points -1.0 
+FasterRCNNF 109
+fog_1.jpg 15.223883628845215 seconds 
+predict_points 529.0 210.0 473.5 283.5 
+labels_points -1.0 
+fog_10.jpg 1.9600341320037842 seconds 
+predict_points 254.5 204.5 383.0 197.0 346.5 200.0 
+labels_points 595.0 202.0 
+fog_11.jpg 1.778017520904541 seconds 
+predict_points 393.0 183.0 421.5 200.0 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.9647881984710693 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 1.8428051471710205 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 1.4477472305297852 seconds 
+predict_points 87.5 60.0 
+labels_points 123.5 69.5 
+fog_15.jpg 0.724747896194458 seconds 
+predict_points 141.0 124.0 199.5 122.5 178.0 125.5 155.5 92.0 223.0 128.5 243.0 118.0 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.8611609935760498 seconds 
+predict_points 366.0 340.5 209.5 309.5 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 1.5228970050811768 seconds 
+predict_points 271.5 422.0 435.0 536.5 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 1.6507799625396729 seconds 
+predict_points 533.5 305.0 289.5 309.0 434.0 278.5 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 2.0166513919830322 seconds 
+predict_points 63.0 54.0 216.5 37.5 84.0 68.0 195.0 42.5 
+labels_points -1.0 
+fog_2.jpg 0.7108750343322754 seconds 
+predict_points 202.5 155.0 99.0 151.0 516.0 166.0 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 2.019578456878662 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 1.9142613410949707 seconds 
+predict_points 90.5 91.0 
+labels_points 92.5 91.5 
+fog_4.jpg 1.6901297569274902 seconds 
+predict_points 228.0 52.5 
+labels_points -1.0 
+fog_5.jpg 1.7454333305358887 seconds 
+predict_points 228.5 140.5 422.5 156.5 
+labels_points -1.0 
+fog_6.jpg 1.906890869140625 seconds 
+predict_points 371.0 91.5 287.0 111.5 594.0 99.0 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 1.616218090057373 seconds 
+predict_points 31.5 66.5 
+labels_points 33.0 69.0 
+fog_8.jpg 1.034167766571045 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.7202520370483398 seconds 
+predict_points 529.0 210.0 473.5 283.5 
+labels_points -1.0 
+night_1.jpg 1.7766892910003662 seconds 
+predict_points 187.0 36.5 133.5 91.0 170.5 29.5 252.5 44.5 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 1.6668472290039062 seconds 
+predict_points 128.0 438.5 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.8213074207305908 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.8739800453186035 seconds 
+predict_points 93.5 319.5 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 1.9891774654388428 seconds 
+predict_points 813.5 306.5 563.0 327.0 450.5 270.5 334.0 362.0 753.5 233.5 645.0 208.5 238.5 394.5 543.0 261.0 644.0 385.5 783.0 317.0 715.0 245.0 674.0 216.0 197.5 163.0 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.9822549819946289 seconds 
+predict_points 438.5 315.0 269.0 366.5 134.0 253.0 349.5 331.0 291.0 290.5 377.5 369.0 484.5 235.5 76.5 271.5 222.5 268.5 555.5 291.5 178.0 374.5 512.0 218.5 65.0 230.0 97.5 340.5 221.0 224.5 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 1.944739818572998 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.7668108940124512 seconds 
+predict_points 50.5 368.0 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 1.9964535236358643 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 1.6735706329345703 seconds 
+predict_points 391.5 152.5 271.0 191.0 68.5 107.0 193.5 69.5 419.0 59.0 278.0 84.5 321.5 81.5 326.0 57.5 240.0 118.5 373.5 47.5 365.5 68.0 430.5 71.0 392.5 87.5 217.5 163.0 399.5 42.0 242.0 76.0 44.5 47.5 287.5 33.0 299.0 31.5 150.5 33.0 244.5 40.5 283.5 53.0 116.5 42.5 33.5 76.5 100.5 41.5 163.0 41.5 97.5 68.0 144.5 49.0 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 1.547048568725586 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.8769896030426025 seconds 
+predict_points 447.5 194.0 377.5 252.0 421.5 187.0 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.7810711860656738 seconds 
+predict_points 139.5 407.5 374.5 373.0 102.0 343.0 337.5 449.5 231.0 416.5 285.0 395.5 203.5 374.0 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 1.964728593826294 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.7711586952209473 seconds 
+predict_points 45.5 330.0 86.0 331.0 32.0 297.0 173.5 295.0 238.5 288.5 213.5 305.0 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.8282122611999512 seconds 
+predict_points 260.5 158.0 118.5 164.5 155.0 133.0 41.5 159.5 383.0 183.0 336.5 189.0 55.0 126.5 216.0 160.0 586.0 166.5 446.5 161.5 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.7629380226135254 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.7827064990997314 seconds 
+predict_points 28.0 302.5 269.0 226.5 595.0 401.5 526.0 269.0 451.5 360.5 93.0 215.5 86.0 387.0 408.5 344.0 397.0 281.0 238.0 358.0 345.5 247.0 582.5 267.0 306.0 215.5 190.5 206.5 356.5 222.0 398.0 233.0 492.0 410.5 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.9220716953277588 seconds 
+predict_points 181.5 175.5 214.5 190.5 43.5 234.0 341.5 227.0 66.0 187.0 179.5 201.5 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.7730081081390381 seconds 
+predict_points 259.5 120.0 61.5 81.5 102.0 109.0 82.0 71.0 194.0 77.5 115.0 79.0 140.5 137.0 246.5 100.0 242.0 117.0 40.0 82.0 126.5 101.5 182.5 98.5 24.0 87.5 152.5 102.0 260.5 69.5 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.8035068511962891 seconds 
+predict_points 360.5 87.5 187.0 152.5 526.5 96.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 1.465378761291504 seconds 
+predict_points 73.5 26.0 135.5 36.5 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 1.7492432594299316 seconds 
+predict_points 477.5 126.5 
+labels_points -1.0 
+rain_133.jpeg 1.9428308010101318 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 1.5302627086639404 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 1.840575933456421 seconds 
+predict_points 9.0 60.5 234.0 41.0 278.0 44.5 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 1.7152047157287598 seconds 
+predict_points 301.0 147.5 529.0 174.0 381.0 133.5 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.7949979305267334 seconds 
+predict_points 151.0 56.5 
+labels_points 152.0 55.0 
+rain_18.jpg 0.7770066261291504 seconds 
+predict_points 97.0 176.5 289.5 112.5 188.5 232.5 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 1.7033820152282715 seconds 
+predict_points 547.0 171.5 159.0 156.0 75.5 184.5 654.5 196.5 
+labels_points 546.5 170.5 
+rain_2.jpg 0.7916676998138428 seconds 
+predict_points 268.5 38.5 181.5 41.0 
+labels_points -1.0 
+rain_20.jpg 0.7141144275665283 seconds 
+predict_points 164.0 56.0 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 1.7820088863372803 seconds 
+predict_points 101.5 355.5 
+labels_points 321.0 461.5 
+rain_4.jpg 0.7091405391693115 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 1.6247859001159668 seconds 
+predict_points 580.0 338.5 326.0 400.0 
+labels_points -1.0 
+rain_6.jpg 1.8700416088104248 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.7455081939697266 seconds 
+predict_points 226.0 73.5 129.0 63.5 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.7105317115783691 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.7395148277282715 seconds 
+predict_points 139.0 79.0 206.0 33.5 84.5 116.0 71.5 59.0 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 1.8814659118652344 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 1.4689528942108154 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.793022632598877 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 1.777895212173462 seconds 
+predict_points 222.5 231.0 425.5 234.5 292.0 234.0 
+labels_points -1.0 
+sandstorm_12.jpg 0.7779366970062256 seconds 
+predict_points 95.5 114.0 132.5 91.0 155.5 104.0 
+labels_points -1.0 
+sandstorm_13.jpg 1.8401446342468262 seconds 
+predict_points 298.5 115.5 75.5 178.5 289.5 113.5 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 1.8400182723999023 seconds 
+predict_points 181.5 71.5 102.0 100.0 58.0 104.0 135.5 108.0 215.0 106.0 28.5 134.5 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 1.8737835884094238 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.8730859756469727 seconds 
+predict_points 364.0 204.0 101.5 192.5 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.7124364376068115 seconds 
+predict_points 268.5 219.5 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 1.036559820175171 seconds 
+predict_points 312.0 294.5 413.5 212.0 554.5 260.0 716.0 262.5 36.0 296.5 198.5 251.5 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.7990410327911377 seconds 
+predict_points 40.0 60.0 87.0 53.5 235.5 49.0 177.5 62.5 276.0 43.0 138.5 56.0 157.0 46.5 100.0 78.0 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.7810544967651367 seconds 
+predict_points 351.5 185.0 207.5 238.5 235.0 248.5 547.0 204.0 
+labels_points -1.0 
+sandstorm_20.jpg 0.7721974849700928 seconds 
+predict_points 593.5 236.5 424.5 333.0 188.0 216.0 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 1.7397680282592773 seconds 
+predict_points 459.5 99.0 304.0 84.5 213.0 113.5 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.7788486480712891 seconds 
+predict_points 198.5 54.0 71.0 126.5 
+labels_points -1.0 
+sandstorm_6.jpg 0.809030294418335 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.7362105846405029 seconds 
+predict_points 199.5 163.5 328.0 271.0 567.5 191.0 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.7855269908905029 seconds 
+predict_points 239.0 176.5 328.0 182.0 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.622460126876831 seconds 
+predict_points 585.5 441.5 456.5 508.0 387.5 517.0 
+labels_points -1.0 
+snow_1.jpg 0.8799679279327393 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 1.9289796352386475 seconds 
+predict_points 70.0 124.5 
+labels_points 69.5 127.0 
+snow_11.jpg 0.77583909034729 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.7149631977081299 seconds 
+predict_points 370.5 234.5 357.0 139.0 162.0 174.0 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.8331866264343262 seconds 
+predict_points 106.0 53.5 
+labels_points -1.0 
+snow_14.jpg 1.6785199642181396 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.7808361053466797 seconds 
+predict_points 504.5 197.0 118.5 198.5 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.7385401725769043 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.8979787826538086 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.7801153659820557 seconds 
+predict_points 143.5 44.5 
+labels_points 143.0 46.0 
+snow_19.jpg 0.7808587551116943 seconds 
+predict_points 380.0 259.0 
+labels_points 381.0 261.0 
+snow_2.jpg 0.7650895118713379 seconds 
+predict_points 223.0 132.0 267.5 254.0 284.0 149.0 481.0 97.0 
+labels_points -1.0 
+snow_20.jpg 0.7810168266296387 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.7799458503723145 seconds 
+predict_points 377.5 231.0 237.0 242.0 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.7752599716186523 seconds 
+predict_points 309.5 187.0 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.781651496887207 seconds 
+predict_points 329.0 252.5 
+labels_points 339.0 252.5 
+snow_6.jpg 0.7883546352386475 seconds 
+predict_points 130.0 56.0 
+labels_points 131.0 60.5 
+snow_7.jpg 1.5599219799041748 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.8238224983215332 seconds 
+predict_points 175.5 81.5 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.7783453464508057 seconds 
+predict_points 133.0 92.5 
+labels_points 133.5 93.0 
+beach_!.png 1.5580956935882568 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.770582914352417 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.783247709274292 seconds 
+predict_points 246.5 124.0 200.0 118.0 132.0 121.5 97.0 143.5 212.0 115.0 174.5 132.0 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 1.5365934371948242 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.779679536819458 seconds 
+predict_points 155.0 88.0 79.5 152.5 223.0 66.0 51.0 151.5 62.0 139.5 14.5 137.5 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.8032469749450684 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.7801952362060547 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.7698655128479004 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.7766978740692139 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.7311105728149414 seconds 
+predict_points 
+labels_points -1.0 
+SSDMobileNet 109
+fog_1.jpg 2.7270874977111816 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.014960765838623047 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.01795220375061035 seconds 
+predict_points 423.5 201.5 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.015966176986694336 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.014997005462646484 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.015958309173583984 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.015488862991333008 seconds 
+predict_points 140.0 126.0 243.5 119.5 223.0 127.0 177.0 127.0 199.5 121.5 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.016485214233398438 seconds 
+predict_points 207.0 307.5 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.013881206512451172 seconds 
+predict_points 437.0 538.0 268.0 437.0 368.0 502.0 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.013961553573608398 seconds 
+predict_points 432.0 270.0 529.5 290.5 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.0184781551361084 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.01795506477355957 seconds 
+predict_points 202.5 154.0 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.01496577262878418 seconds 
+predict_points 323.5 286.5 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.015414953231811523 seconds 
+predict_points 89.0 90.0 
+labels_points 92.5 91.5 
+fog_4.jpg 0.015315532684326172 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.014954566955566406 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.018978357315063477 seconds 
+predict_points 291.0 101.5 372.5 93.0 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.0173337459564209 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.01579570770263672 seconds 
+predict_points 94.5 169.5 
+labels_points 323.0 195.0 
+fog_9.jpg 0.01661205291748047 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.01550912857055664 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.020260095596313477 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.01779460906982422 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.015752315521240234 seconds 
+predict_points 50.5 282.5 132.0 306.5 31.5 201.5 79.5 268.0 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.01697397232055664 seconds 
+predict_points 651.5 139.0 648.0 122.0 604.0 117.5 453.5 269.5 348.0 191.0 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.014959573745727539 seconds 
+predict_points 270.5 366.0 571.0 122.0 540.5 122.0 517.5 323.5 375.0 367.0 241.0 112.0 439.5 312.0 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.016098499298095703 seconds 
+predict_points 634.0 277.0 359.5 337.0 84.0 214.5 329.5 314.0 367.5 300.5 327.0 296.5 
+labels_points 225.5 303.0 
+night_16.jpg 0.013962268829345703 seconds 
+predict_points 141.0 241.5 100.5 142.0 127.0 190.0 74.0 238.0 111.0 190.5 163.5 245.0 181.5 118.5 147.5 147.5 95.0 122.0 95.0 213.0 124.5 163.0 144.0 186.0 144.0 114.5 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.014870166778564453 seconds 
+predict_points 147.0 211.5 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.015504121780395508 seconds 
+predict_points 274.5 86.5 32.5 75.0 372.5 48.0 431.0 70.0 396.0 87.5 419.0 58.5 43.0 45.5 321.5 83.5 241.5 74.0 82.0 77.5 237.5 117.0 119.5 58.0 113.5 5.0 329.0 37.5 403.5 18.0 71.5 58.5 71.0 34.5 330.0 57.5 94.5 5.0 432.5 18.0 70.5 19.5 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.014165163040161133 seconds 
+predict_points 395.0 303.0 436.5 329.0 242.5 302.5 284.5 303.5 171.0 333.5 322.0 306.0 277.5 331.5 352.5 269.0 396.5 335.0 353.0 312.0 548.0 302.0 545.0 392.0 208.0 337.0 128.0 308.5 173.0 372.0 655.0 358.5 58.0 334.5 119.5 338.5 
+labels_points 321.5 343.0 
+night_2.jpg 0.017534971237182617 seconds 
+predict_points 379.0 254.0 256.0 154.0 211.0 151.5 231.0 153.5 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.016956329345703125 seconds 
+predict_points 423.5 304.0 56.0 303.5 150.5 301.0 457.5 306.0 538.5 307.5 462.0 278.5 341.0 302.5 233.0 281.0 225.5 414.5 104.5 331.0 56.0 287.0 187.5 282.5 153.5 277.5 270.5 279.0 388.5 298.5 114.0 259.0 381.0 355.0 459.0 383.5 413.0 356.5 138.0 408.0 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.01593780517578125 seconds 
+predict_points 90.0 342.0 138.0 369.0 56.5 335.5 41.0 309.0 72.5 339.5 175.5 337.0 120.0 389.5 22.5 336.5 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.018256425857543945 seconds 
+predict_points 432.5 265.0 92.5 306.5 113.5 305.0 370.5 268.0 158.5 309.5 127.0 285.0 46.5 265.5 216.0 265.0 344.0 289.0 402.5 265.0 273.5 286.5 125.5 268.5 85.0 285.0 241.5 288.5 55.5 310.0 314.0 269.0 338.0 268.0 218.5 288.0 245.0 268.0 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.018103599548339844 seconds 
+predict_points 41.0 157.0 261.0 157.5 217.0 160.0 118.5 161.5 385.5 180.0 154.0 132.5 338.5 186.0 313.5 140.5 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.016809940338134766 seconds 
+predict_points 120.0 198.0 124.0 167.0 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.017844438552856445 seconds 
+predict_points 28.5 304.5 397.0 277.5 84.0 388.0 240.5 352.5 592.5 404.5 315.5 192.5 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.015999555587768555 seconds 
+predict_points 214.5 190.0 268.0 134.5 42.5 231.0 216.0 140.0 167.5 149.5 290.5 148.0 316.5 148.0 243.0 163.0 167.0 136.0 272.0 161.5 198.0 136.5 309.0 165.5 37.5 124.0 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.01967597007751465 seconds 
+predict_points 140.5 137.5 103.0 108.0 61.0 82.5 244.0 117.5 80.5 71.5 127.0 103.0 194.5 79.0 259.5 70.0 246.0 100.5 141.0 80.0 114.5 78.5 40.0 75.0 23.0 88.5 236.0 82.5 267.0 104.0 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.014453649520874023 seconds 
+predict_points 185.5 154.5 353.5 87.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.016954660415649414 seconds 
+predict_points 133.5 36.5 73.0 26.0 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.015006542205810547 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.01495981216430664 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.015074014663696289 seconds 
+predict_points 226.0 85.0 
+labels_points -1.0 
+rain_15.jpg 0.01595783233642578 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.016033411026000977 seconds 
+predict_points 373.0 133.5 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.015370607376098633 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.01586747169494629 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.015723228454589844 seconds 
+predict_points 543.5 167.5 
+labels_points 546.5 170.5 
+rain_2.jpg 0.015717506408691406 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.019418954849243164 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.014658212661743164 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.01854538917541504 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.015980958938598633 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.014818429946899414 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.01576709747314453 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.01894831657409668 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.015336990356445312 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.019330263137817383 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.01942610740661621 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.014007329940795898 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.015313863754272461 seconds 
+predict_points 290.5 230.5 316.0 228.0 
+labels_points -1.0 
+sandstorm_12.jpg 0.013947248458862305 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.014820575714111328 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.014710187911987305 seconds 
+predict_points 101.5 97.0 181.0 70.0 26.5 133.5 57.5 104.0 213.0 104.5 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.014650583267211914 seconds 
+predict_points 279.5 171.0 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.014513015747070312 seconds 
+predict_points 362.0 202.0 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.014753580093383789 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.019379138946533203 seconds 
+predict_points 311.5 293.5 76.0 247.0 410.5 212.5 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.015961408615112305 seconds 
+predict_points 40.5 61.0 85.0 51.0 140.0 56.5 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.014959096908569336 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.015987157821655273 seconds 
+predict_points 420.0 331.0 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.014960765838623047 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.014979124069213867 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.01634955406188965 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.014803886413574219 seconds 
+predict_points 328.5 271.0 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.01630711555480957 seconds 
+predict_points 323.5 178.0 240.0 174.0 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.015849828720092773 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.018857240676879883 seconds 
+predict_points 285.0 160.5 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.015961647033691406 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.014959096908569336 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.01426553726196289 seconds 
+predict_points 368.5 228.0 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.015820741653442383 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.01894998550415039 seconds 
+predict_points 296.5 94.5 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.013964653015136719 seconds 
+predict_points 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.014647483825683594 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.019262313842773438 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.019310951232910156 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.014963150024414062 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.017736196517944336 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.015480279922485352 seconds 
+predict_points 155.0 277.5 
+labels_points 591.0 303.5 
+snow_3.jpg 0.014389514923095703 seconds 
+predict_points 375.5 233.0 235.0 246.5 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.01537322998046875 seconds 
+predict_points 308.5 183.5 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.013956546783447266 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.014741897583007812 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.018570661544799805 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.015423059463500977 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.015957117080688477 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.01550745964050293 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.015619993209838867 seconds 
+predict_points 303.0 336.5 272.0 334.5 45.5 328.0 189.5 367.0 335.0 368.5 473.0 410.5 212.5 366.0 163.5 368.0 79.5 332.5 497.0 417.5 519.5 419.0 189.0 328.0 217.0 329.0 443.0 414.0 337.0 402.0 253.0 333.0 94.5 524.5 45.5 367.5 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.015131711959838867 seconds 
+predict_points 200.5 118.5 133.5 121.0 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.014373302459716797 seconds 
+predict_points 334.5 501.0 385.5 506.5 361.5 502.0 280.5 501.0 276.0 544.5 172.0 504.5 225.0 537.0 225.5 619.5 407.5 504.5 73.5 497.5 123.5 537.0 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.017328500747680664 seconds 
+predict_points 156.0 88.0 62.0 140.5 223.5 64.5 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.01532292366027832 seconds 
+predict_points 343.5 410.0 
+labels_points -1.0 
+beach_6.jpg 0.014960050582885742 seconds 
+predict_points 334.5 501.0 385.5 506.5 361.5 502.0 280.5 501.0 276.0 544.5 172.0 504.5 225.0 537.0 225.5 619.5 407.5 504.5 73.5 497.5 123.5 537.0 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.015525102615356445 seconds 
+predict_points 284.0 388.5 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.014566898345947266 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.01518106460571289 seconds 
+predict_points 
+labels_points -1.0 
+retinaFace 109
+fog_1.jpg 0.20768284797668457 seconds 
+predict_points 325.5 189.0 151.5 173.5 
+labels_points -1.0 
+fog_10.jpg 0.13620781898498535 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.27022671699523926 seconds 
+predict_points 397.5 180.0 423.0 200.5 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.11793756484985352 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.11850428581237793 seconds 
+predict_points 182.5 270.0 247.0 272.0 
+labels_points 571.5 355.5 
+fog_14.jpg 0.061608076095581055 seconds 
+predict_points 87.5 57.5 122.0 64.5 
+labels_points 123.5 69.5 
+fog_15.jpg 0.015639781951904297 seconds 
+predict_points 141.0 125.0 199.0 122.0 242.5 118.5 223.0 128.5 177.5 124.5 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.14334440231323242 seconds 
+predict_points 207.5 310.5 366.0 339.0 313.0 278.0 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.33269715309143066 seconds 
+predict_points 437.0 536.5 367.5 497.5 248.5 606.5 110.5 631.5 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.24469852447509766 seconds 
+predict_points 432.0 279.5 288.5 312.0 532.0 311.5 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.06448769569396973 seconds 
+predict_points 7.0 47.0 64.0 54.0 85.0 69.5 
+labels_points -1.0 
+fog_2.jpg 0.16870355606079102 seconds 
+predict_points 96.5 150.5 201.5 156.5 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.26052403450012207 seconds 
+predict_points 340.0 284.5 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.04569244384765625 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.09278035163879395 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.17044281959533691 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.15355658531188965 seconds 
+predict_points 288.0 111.5 374.5 90.0 596.5 101.5 398.5 78.0 247.0 118.0 566.0 104.5 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.061064720153808594 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.10402584075927734 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.0665731430053711 seconds 
+predict_points 325.5 189.0 151.5 173.5 
+labels_points -1.0 
+night_1.jpg 0.05997419357299805 seconds 
+predict_points 242.0 8.5 225.0 5.5 188.5 36.5 208.0 38.0 134.5 89.5 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.419827938079834 seconds 
+predict_points 647.0 686.5 322.0 396.5 276.5 642.5 280.0 494.5 129.0 444.5 678.0 790.5 460.0 467.0 167.0 460.5 13.5 312.0 536.5 381.0 85.0 376.0 248.0 528.0 368.5 354.5 395.0 382.0 693.0 743.5 233.0 365.5 509.0 648.0 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.10034394264221191 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.055760860443115234 seconds 
+predict_points 15.5 308.0 324.5 271.5 96.5 320.5 52.5 281.0 222.0 297.5 220.0 263.5 168.0 292.5 275.5 287.0 85.0 264.0 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.216447114944458 seconds 
+predict_points 564.0 325.0 628.0 258.0 336.0 363.5 784.0 313.5 813.0 305.0 544.0 258.5 653.0 150.0 646.0 387.5 452.5 270.5 754.5 232.0 237.0 393.5 716.5 246.0 756.5 196.5 671.0 217.0 644.0 208.0 497.5 214.0 357.5 269.0 549.5 160.5 783.5 193.0 304.0 200.0 707.0 291.0 510.5 175.5 776.5 177.5 710.5 193.5 771.0 464.0 594.0 157.0 704.5 135.5 741.5 156.5 224.5 166.0 768.5 237.0 771.5 374.0 127.5 172.0 198.5 159.0 136.5 214.0 821.5 214.0 195.0 210.5 81.5 205.0 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.14392709732055664 seconds 
+predict_points 267.5 366.0 377.0 370.5 436.5 315.0 181.0 373.0 290.5 289.5 96.5 339.0 349.5 331.0 22.0 245.5 576.0 231.5 388.5 241.5 135.0 255.5 311.0 228.5 77.0 271.0 471.5 214.5 485.0 236.0 511.5 218.0 365.0 262.5 223.5 268.5 192.5 316.5 371.5 301.5 588.5 259.0 441.5 217.0 434.0 239.0 416.0 256.0 552.0 234.0 49.0 293.0 26.0 230.5 208.5 348.0 431.0 200.5 490.0 206.5 333.0 246.0 559.5 215.5 404.5 222.0 239.5 295.0 484.5 191.0 166.0 220.5 121.0 231.5 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.14998221397399902 seconds 
+predict_points 509.0 325.0 
+labels_points 225.5 303.0 
+night_16.jpg 0.11129140853881836 seconds 
+predict_points 162.0 247.0 56.5 215.5 29.5 192.5 136.5 243.5 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.10160255432128906 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.09394192695617676 seconds 
+predict_points 391.0 153.0 239.5 117.0 430.0 70.0 269.5 192.5 136.5 77.5 320.5 80.5 278.5 84.5 392.0 87.5 219.5 161.5 399.5 40.5 177.0 95.0 33.0 75.5 367.0 67.0 374.5 45.5 96.5 68.0 117.0 41.5 26.0 149.0 73.5 57.0 157.5 128.5 143.5 49.5 165.0 40.0 165.5 63.5 245.0 39.5 45.5 48.5 325.5 56.0 68.5 104.5 150.0 33.5 288.5 145.0 420.0 57.5 196.0 69.5 8.5 29.5 329.5 33.0 214.0 37.0 28.0 39.5 288.0 32.0 101.5 40.5 224.0 23.0 365.0 37.0 241.5 74.0 194.0 45.5 229.0 45.0 41.0 40.0 256.0 31.0 284.5 55.0 49.0 94.0 152.5 14.5 7.5 112.5 426.0 32.5 174.0 23.0 5.5 60.5 74.0 32.0 190.0 29.0 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.22045111656188965 seconds 
+predict_points 431.5 311.5 50.0 519.5 321.0 342.5 126.0 352.0 175.0 352.5 119.5 393.5 201.5 455.0 280.5 515.0 125.0 518.0 13.5 272.5 351.0 349.5 407.0 449.5 314.0 464.0 21.0 300.5 101.5 297.0 384.0 343.5 
+labels_points 321.5 343.0 
+night_2.jpg 0.1214296817779541 seconds 
+predict_points 456.5 278.5 255.5 204.0 224.0 272.0 378.0 252.0 129.5 205.5 206.5 192.5 373.5 181.0 448.5 196.5 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.20239830017089844 seconds 
+predict_points 374.5 372.5 141.0 410.0 233.0 417.5 207.0 376.0 460.5 397.0 339.0 447.0 59.0 414.5 269.0 325.0 168.0 350.5 110.5 371.5 102.0 341.5 376.5 318.5 319.5 312.5 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.10414290428161621 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.06081271171569824 seconds 
+predict_points 46.0 332.0 112.5 304.0 103.5 285.5 32.5 297.5 142.0 293.5 86.0 332.5 94.0 302.0 174.5 293.5 71.0 306.0 77.5 352.5 213.0 304.5 193.0 334.5 5.0 292.5 126.0 346.0 136.0 310.0 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.13147735595703125 seconds 
+predict_points 119.5 164.0 382.5 182.5 262.5 157.5 55.0 125.5 42.5 159.0 217.5 162.0 155.5 132.5 342.5 186.0 467.5 174.0 593.5 169.0 447.0 159.0 5.5 153.0 510.0 160.5 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.054570913314819336 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.15856695175170898 seconds 
+predict_points 451.5 360.5 396.5 282.5 407.0 343.0 238.5 357.5 30.5 304.0 86.5 388.0 527.0 268.5 269.5 227.5 595.0 408.0 191.0 206.5 93.5 215.0 345.0 247.5 583.0 266.5 357.0 222.5 399.0 233.5 294.5 279.5 307.5 216.0 505.5 238.5 312.0 291.0 612.0 253.5 624.0 258.0 492.5 427.5 461.0 294.0 419.5 253.5 375.0 205.5 468.5 270.0 558.0 346.0 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.0919961929321289 seconds 
+predict_points 83.5 222.0 440.5 210.5 341.5 226.0 217.0 190.0 42.0 233.0 65.0 186.0 69.0 159.5 184.0 175.0 360.0 229.0 304.5 197.5 182.0 199.5 9.5 182.0 45.5 204.5 359.0 166.0 16.0 220.5 384.5 176.5 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.04372453689575195 seconds 
+predict_points 141.5 137.5 260.0 120.0 61.5 81.0 208.5 94.5 102.5 108.0 153.0 103.5 128.0 100.5 181.0 157.5 243.5 117.5 49.0 103.0 247.0 101.5 82.0 71.0 41.0 77.5 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.1644728183746338 seconds 
+predict_points 360.5 87.5 188.0 154.0 528.0 94.5 601.5 47.0 303.5 110.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.0619204044342041 seconds 
+predict_points 134.5 36.5 74.0 25.0 113.5 6.0 183.0 7.0 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.11979532241821289 seconds 
+predict_points 300.0 87.0 480.5 127.0 311.0 106.0 149.0 79.5 
+labels_points -1.0 
+rain_133.jpeg 0.11890482902526855 seconds 
+predict_points 160.5 49.5 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.11207842826843262 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.06322813034057617 seconds 
+predict_points 7.0 61.0 100.5 32.5 48.0 21.0 86.0 32.0 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.1508781909942627 seconds 
+predict_points 380.0 134.0 299.5 148.5 528.5 174.0 217.0 113.0 129.5 125.0 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.05803632736206055 seconds 
+predict_points 151.0 55.0 
+labels_points 152.0 55.0 
+rain_18.jpg 0.06009554862976074 seconds 
+predict_points 289.5 113.5 95.5 174.0 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.16274762153625488 seconds 
+predict_points 546.0 171.0 655.0 197.5 190.5 170.0 159.5 167.0 84.5 180.5 332.0 168.5 14.5 189.0 341.5 132.5 214.0 159.0 398.5 135.5 656.5 143.0 
+labels_points 546.5 170.5 
+rain_2.jpg 0.05833888053894043 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.0902092456817627 seconds 
+predict_points 81.0 117.0 207.5 133.5 163.5 56.0 256.5 117.5 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.5908553600311279 seconds 
+predict_points 106.5 352.0 195.0 399.5 
+labels_points 321.0 461.5 
+rain_4.jpg 0.15790820121765137 seconds 
+predict_points 161.5 137.0 282.5 128.0 
+labels_points 431.5 203.0 
+rain_5.jpg 0.3883073329925537 seconds 
+predict_points 580.0 345.0 327.5 397.5 358.0 416.5 785.5 391.5 
+labels_points -1.0 
+rain_6.jpg 0.10447144508361816 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.0594639778137207 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.06238293647766113 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.043204307556152344 seconds 
+predict_points 207.0 33.0 139.5 80.0 84.5 117.5 72.0 57.0 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.1045682430267334 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.19743871688842773 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.1055455207824707 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.15415573120117188 seconds 
+predict_points 290.5 233.0 320.0 231.0 222.5 230.0 
+labels_points -1.0 
+sandstorm_12.jpg 0.04152941703796387 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.09590530395507812 seconds 
+predict_points 68.0 183.0 301.0 112.5 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.060080528259277344 seconds 
+predict_points 58.0 104.0 135.0 109.0 214.0 104.5 181.5 73.0 101.5 97.5 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.09655046463012695 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.15126943588256836 seconds 
+predict_points 364.5 204.5 472.0 197.0 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.19842743873596191 seconds 
+predict_points 267.5 218.5 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.22176313400268555 seconds 
+predict_points 314.0 294.5 413.5 217.5 554.0 263.0 198.0 250.0 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.06014108657836914 seconds 
+predict_points 178.0 62.0 140.0 55.5 40.5 61.0 87.0 50.5 159.0 46.5 101.0 78.5 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.2746891975402832 seconds 
+predict_points 205.5 238.0 
+labels_points -1.0 
+sandstorm_20.jpg 0.3531947135925293 seconds 
+predict_points 593.5 235.5 190.0 215.0 423.5 336.5 541.5 360.0 136.0 233.0 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.1401832103729248 seconds 
+predict_points 303.0 87.5 458.0 100.5 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.051172733306884766 seconds 
+predict_points 158.5 73.0 199.5 55.5 
+labels_points -1.0 
+sandstorm_6.jpg 0.05815243721008301 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.24252867698669434 seconds 
+predict_points 199.0 163.5 327.5 274.0 557.5 190.5 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.16045284271240234 seconds 
+predict_points 239.5 174.5 326.0 178.0 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.25374436378479004 seconds 
+predict_points 586.0 438.5 386.5 512.5 459.0 504.5 
+labels_points -1.0 
+snow_1.jpg 0.1703338623046875 seconds 
+predict_points 127.0 137.0 286.0 158.0 174.0 197.5 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.061145782470703125 seconds 
+predict_points 69.0 126.0 
+labels_points 69.5 127.0 
+snow_11.jpg 0.16173386573791504 seconds 
+predict_points 295.5 156.0 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.15861034393310547 seconds 
+predict_points 164.0 178.5 372.0 233.0 358.5 142.0 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.04253649711608887 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.18503069877624512 seconds 
+predict_points 213.5 125.5 388.0 151.5 456.0 201.0 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.14016437530517578 seconds 
+predict_points 119.0 199.5 507.5 201.5 343.0 251.0 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.26293492317199707 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.057331085205078125 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.042630672454833984 seconds 
+predict_points 143.5 45.0 
+labels_points 143.0 46.0 
+snow_19.jpg 0.23311233520507812 seconds 
+predict_points 381.0 257.0 
+labels_points 381.0 261.0 
+snow_2.jpg 0.19200348854064941 seconds 
+predict_points 297.5 160.5 
+labels_points -1.0 
+snow_20.jpg 0.12142109870910645 seconds 
+predict_points 148.5 276.0 
+labels_points 591.0 303.5 
+snow_3.jpg 0.17074370384216309 seconds 
+predict_points 378.5 233.5 237.0 245.0 158.0 309.0 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.11364269256591797 seconds 
+predict_points 225.0 231.5 174.0 201.0 309.5 189.0 85.5 193.5 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.06255030632019043 seconds 
+predict_points 340.0 252.0 
+labels_points 339.0 252.5 
+snow_6.jpg 0.05721020698547363 seconds 
+predict_points 131.5 57.0 
+labels_points 131.0 60.5 
+snow_7.jpg 0.05705690383911133 seconds 
+predict_points 134.5 70.5 
+labels_points 134.0 72.0 
+snow_8.jpg 0.04482150077819824 seconds 
+predict_points 174.0 81.0 113.0 64.0 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.04241514205932617 seconds 
+predict_points 134.0 92.0 
+labels_points 133.5 93.0 
+beach_!.png 0.10869550704956055 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.2237849235534668 seconds 
+predict_points 30.5 562.0 95.5 513.0 90.0 381.5 39.0 603.0 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.04379987716674805 seconds 
+predict_points 246.0 124.5 200.0 117.5 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.2010498046875 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.04318594932556152 seconds 
+predict_points 223.0 66.0 155.5 87.5 50.5 151.0 78.5 153.5 61.5 142.0 30.5 176.5 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.21426033973693848 seconds 
+predict_points 728.0 199.0 78.0 445.0 53.5 437.5 705.5 229.5 
+labels_points -1.0 
+beach_6.jpg 0.19553208351135254 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.19788646697998047 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.12472367286682129 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.04321098327636719 seconds 
+predict_points 
+labels_points -1.0 
+RfcnResnet101 109
+fog_1.jpg 7.826768636703491 seconds 
+predict_points 475.0 285.5 532.0 210.5 
+labels_points -1.0 
+fog_10.jpg 0.7418868541717529 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.8138656616210938 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.2733607292175293 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.8071539402008057 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.39130544662475586 seconds 
+predict_points 88.5 59.5 
+labels_points 123.5 69.5 
+fog_15.jpg 0.09201407432556152 seconds 
+predict_points 199.0 121.0 141.0 124.5 176.5 124.0 243.5 118.0 154.5 92.5 221.5 127.5 31.0 76.5 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.14860987663269043 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.409684419631958 seconds 
+predict_points 273.5 422.0 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.7657296657562256 seconds 
+predict_points 533.0 304.0 437.5 276.5 291.0 308.5 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.7573189735412598 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.08928394317626953 seconds 
+predict_points 203.5 156.0 99.0 152.0 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.7606563568115234 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.853935718536377 seconds 
+predict_points 90.5 90.5 
+labels_points 92.5 91.5 
+fog_4.jpg 0.778728723526001 seconds 
+predict_points 231.5 55.5 
+labels_points -1.0 
+fog_5.jpg 0.7970945835113525 seconds 
+predict_points 338.0 123.0 
+labels_points -1.0 
+fog_6.jpg 0.8517186641693115 seconds 
+predict_points 370.0 92.5 593.5 97.0 244.0 117.0 396.0 83.0 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.7536051273345947 seconds 
+predict_points 32.0 66.5 
+labels_points 33.0 69.0 
+fog_8.jpg 0.2475724220275879 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.09325456619262695 seconds 
+predict_points 475.0 285.5 532.0 210.5 
+labels_points -1.0 
+night_1.jpg 0.7997531890869141 seconds 
+predict_points 252.5 44.5 135.0 90.0 186.5 36.5 171.0 30.0 178.0 36.5 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.7740306854248047 seconds 
+predict_points 127.0 446.5 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.10995888710021973 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.1473376750946045 seconds 
+predict_points 84.0 265.0 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.7527987957000732 seconds 
+predict_points 454.5 271.0 239.0 397.5 568.5 320.0 339.5 367.5 716.0 243.5 137.5 217.0 597.0 158.5 232.5 303.5 816.0 304.0 654.0 148.5 677.5 214.0 660.0 186.0 754.5 236.0 646.5 210.0 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.2735731601715088 seconds 
+predict_points 289.0 289.5 435.5 314.5 375.0 372.5 267.0 367.5 559.0 292.0 347.5 332.5 221.0 263.5 366.5 302.0 513.0 322.0 78.0 269.0 96.5 339.5 432.0 238.0 483.5 236.0 39.5 356.0 140.5 227.5 470.5 217.0 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.8285806179046631 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.10075497627258301 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.7529215812683105 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.3512294292449951 seconds 
+predict_points 393.0 152.5 69.5 104.5 240.5 114.5 272.5 190.0 280.5 82.5 366.5 65.5 374.5 46.0 433.0 69.0 26.0 146.0 32.5 74.5 45.0 49.0 221.5 161.5 245.0 73.5 419.0 57.5 117.5 41.5 322.5 80.5 396.0 87.0 369.0 36.5 102.0 40.5 151.0 35.0 231.5 44.5 196.0 66.5 302.0 30.5 294.0 143.5 189.5 29.5 165.0 41.0 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.7388205528259277 seconds 
+predict_points 549.0 137.0 
+labels_points 321.5 343.0 
+night_2.jpg 0.14543843269348145 seconds 
+predict_points 195.5 217.5 222.0 273.0 422.5 186.5 451.0 194.5 380.0 253.5 478.0 183.5 455.0 281.5 296.0 183.0 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.10081601142883301 seconds 
+predict_points 370.5 372.5 139.5 403.0 205.0 375.0 250.0 327.0 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.8297202587127686 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.0994410514831543 seconds 
+predict_points 85.0 331.0 237.0 287.0 45.0 332.0 151.5 320.5 153.5 320.5 112.5 303.0 101.0 284.0 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.1096351146697998 seconds 
+predict_points 120.0 163.0 260.5 156.5 338.5 190.0 154.0 131.0 383.5 183.0 42.0 158.5 447.5 160.5 214.5 162.5 7.0 152.0 55.0 122.0 471.0 173.5 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.10298705101013184 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.10007405281066895 seconds 
+predict_points 455.0 360.5 30.0 304.5 409.5 343.0 239.0 356.5 597.5 403.5 91.5 379.0 397.0 284.0 92.5 216.5 527.5 268.5 269.0 225.5 345.0 247.5 494.5 411.5 582.5 267.0 189.0 206.5 207.5 226.5 357.0 224.5 311.5 214.5 546.5 298.0 399.5 233.5 471.0 216.5 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.15393376350402832 seconds 
+predict_points 215.5 188.5 82.5 222.5 343.5 227.0 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.10044074058532715 seconds 
+predict_points 102.0 109.0 260.5 119.5 60.5 81.0 181.5 157.0 141.0 136.5 129.0 99.5 152.0 104.0 82.0 71.0 208.0 94.0 196.0 78.0 242.5 116.0 115.0 79.0 40.0 82.5 40.5 73.0 247.5 102.0 7.0 88.0 260.5 71.5 171.5 94.0 167.0 105.0 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.14456629753112793 seconds 
+predict_points 188.5 151.5 360.0 89.0 528.0 94.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.3932983875274658 seconds 
+predict_points 134.0 37.5 73.0 26.5 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.6407697200775146 seconds 
+predict_points 301.0 88.0 
+labels_points -1.0 
+rain_133.jpeg 0.7509491443634033 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.4076712131500244 seconds 
+predict_points 214.0 103.5 226.0 85.0 216.0 89.0 
+labels_points -1.0 
+rain_15.jpg 0.7116315364837646 seconds 
+predict_points 234.5 40.0 93.0 47.5 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.7837367057800293 seconds 
+predict_points 381.0 134.0 528.5 174.0 299.0 149.5 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.10267472267150879 seconds 
+predict_points 151.0 55.5 
+labels_points 152.0 55.0 
+rain_18.jpg 0.09838986396789551 seconds 
+predict_points 290.5 113.5 97.5 172.5 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.38895177841186523 seconds 
+predict_points 544.5 169.0 160.5 203.0 188.5 171.5 79.5 180.5 
+labels_points 546.5 170.5 
+rain_2.jpg 0.10532760620117188 seconds 
+predict_points 269.0 38.5 
+labels_points -1.0 
+rain_20.jpg 0.08748054504394531 seconds 
+predict_points 163.0 53.0 261.0 115.0 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.8068540096282959 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.09547281265258789 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.7508833408355713 seconds 
+predict_points 584.0 337.0 
+labels_points -1.0 
+rain_6.jpg 0.7079451084136963 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.09595894813537598 seconds 
+predict_points 162.5 57.0 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.08977937698364258 seconds 
+predict_points 158.0 46.0 
+labels_points -1.0 
+rain_9.jpg 0.09495043754577637 seconds 
+predict_points 205.5 30.5 137.5 78.5 85.5 117.5 24.5 78.0 70.5 60.0 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.7192564010620117 seconds 
+predict_points 84.5 325.0 
+labels_points -1.0 
+sandstorm_1.jpg 0.7124423980712891 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.14766931533813477 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.8018441200256348 seconds 
+predict_points 220.5 233.0 288.5 232.5 424.5 234.0 319.0 229.5 
+labels_points -1.0 
+sandstorm_12.jpg 0.09908890724182129 seconds 
+predict_points 94.5 113.5 
+labels_points -1.0 
+sandstorm_13.jpg 0.804922342300415 seconds 
+predict_points 75.5 180.0 299.0 114.5 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.8085222244262695 seconds 
+predict_points 180.0 71.5 213.5 105.5 58.0 103.5 133.5 107.5 28.0 132.0 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.8165757656097412 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.14724421501159668 seconds 
+predict_points 367.0 202.5 447.5 205.0 100.5 190.5 315.0 195.0 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.08851790428161621 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.2873706817626953 seconds 
+predict_points 557.0 260.0 314.0 294.0 418.5 211.5 39.0 294.0 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.1014852523803711 seconds 
+predict_points 41.0 59.5 141.0 55.5 87.0 53.0 179.0 63.0 236.0 49.5 159.0 47.0 78.0 63.5 241.0 40.0 220.0 37.0 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.09836101531982422 seconds 
+predict_points 353.5 182.5 208.5 240.0 94.5 235.5 155.5 236.5 
+labels_points -1.0 
+sandstorm_20.jpg 0.10109901428222656 seconds 
+predict_points 420.0 336.0 592.0 236.0 190.5 214.5 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.7890117168426514 seconds 
+predict_points 302.5 85.5 458.5 98.5 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.10089445114135742 seconds 
+predict_points 156.5 70.5 
+labels_points -1.0 
+sandstorm_6.jpg 0.10631704330444336 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.13057303428649902 seconds 
+predict_points 198.5 162.5 329.5 273.0 562.0 187.5 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.10043215751647949 seconds 
+predict_points 236.5 175.5 325.0 181.5 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.07563233375549316 seconds 
+predict_points 587.0 437.0 456.5 505.5 386.5 518.0 
+labels_points -1.0 
+snow_1.jpg 0.15017056465148926 seconds 
+predict_points 286.5 160.0 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.8578135967254639 seconds 
+predict_points 69.0 128.0 
+labels_points 69.5 127.0 
+snow_11.jpg 0.10221695899963379 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.08848214149475098 seconds 
+predict_points 374.0 230.0 360.0 141.5 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.1376199722290039 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.7779350280761719 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.09813213348388672 seconds 
+predict_points 119.0 198.0 509.5 200.0 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.0994105339050293 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.15063691139221191 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.0998387336730957 seconds 
+predict_points 144.0 46.0 
+labels_points 143.0 46.0 
+snow_19.jpg 0.10073018074035645 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.1371772289276123 seconds 
+predict_points 406.5 159.0 255.5 163.0 229.5 184.5 
+labels_points -1.0 
+snow_20.jpg 0.10441803932189941 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.10238361358642578 seconds 
+predict_points 377.5 232.0 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.1030888557434082 seconds 
+predict_points 309.0 187.0 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.09723162651062012 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.10581398010253906 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.4099454879760742 seconds 
+predict_points 135.5 70.5 
+labels_points 134.0 72.0 
+snow_8.jpg 0.13516950607299805 seconds 
+predict_points 173.5 80.0 112.0 59.5 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.0971834659576416 seconds 
+predict_points 133.0 93.0 
+labels_points 133.5 93.0 
+beach_!.png 0.41247081756591797 seconds 
+predict_points 138.0 235.0 233.5 304.5 
+labels_points -1.0 
+beach_.jpeg 0.10308289527893066 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.10398125648498535 seconds 
+predict_points 246.0 125.0 200.0 117.5 132.5 121.5 212.5 114.5 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.4121706485748291 seconds 
+predict_points 279.5 597.5 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.10016822814941406 seconds 
+predict_points 156.0 87.0 79.0 154.0 51.0 152.0 62.0 139.5 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.14895939826965332 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.10300922393798828 seconds 
+predict_points 279.5 597.5 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.10040473937988281 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.10333013534545898 seconds 
+predict_points 257.0 262.0 
+labels_points -1.0 
+beach_9.jpg 0.09598827362060547 seconds 
+predict_points 
+labels_points -1.0 
+TinyYOLO 109
+fog_1.jpg 0.0833132266998291 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.03989601135253906 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.03989386558532715 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.04091382026672363 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.03959083557128906 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.03989672660827637 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.039896488189697266 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.03890633583068848 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.039194345474243164 seconds 
+predict_points 246.0 616.0 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.03989768028259277 seconds 
+predict_points 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.03989696502685547 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.044615745544433594 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.04058694839477539 seconds 
+predict_points 329.5 285.0 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.04094433784484863 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.037903547286987305 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.041357994079589844 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.043883562088012695 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.046998023986816406 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.039370059967041016 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.04360151290893555 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.03949475288391113 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.039893150329589844 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.039930105209350586 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.04488086700439453 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.039963722229003906 seconds 
+predict_points 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.04848146438598633 seconds 
+predict_points 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.03971505165100098 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.04026293754577637 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.04089069366455078 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.04059481620788574 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.040930747985839844 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.03989458084106445 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.038895606994628906 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.039894819259643555 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.039678096771240234 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.044553518295288086 seconds 
+predict_points 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.03989386558532715 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.03811383247375488 seconds 
+predict_points 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.040888071060180664 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.039600372314453125 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.040889739990234375 seconds 
+predict_points 189.5 151.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.040055036544799805 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.03889918327331543 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.04176664352416992 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.03989434242248535 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.040406227111816406 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.0404970645904541 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.039281368255615234 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.04188799858093262 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.04173851013183594 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.0408940315246582 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.04787492752075195 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.04188799858093262 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.03789854049682617 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.03690528869628906 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.03959369659423828 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.03890275955200195 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.03889203071594238 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.039893388748168945 seconds 
+predict_points 139.0 82.0 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.03822445869445801 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.03989386558532715 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.03989267349243164 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.03989362716674805 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.03979182243347168 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.03871440887451172 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.03889608383178711 seconds 
+predict_points 135.0 108.5 216.0 108.5 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.03789854049682617 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.039893388748168945 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.04204726219177246 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.03989410400390625 seconds 
+predict_points 411.0 214.5 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.04188704490661621 seconds 
+predict_points 42.0 61.0 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.03989458084106445 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.03851628303527832 seconds 
+predict_points 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.044899940490722656 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.03889131546020508 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.03985786437988281 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.03762364387512207 seconds 
+predict_points 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.04587721824645996 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.046675920486450195 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.03763008117675781 seconds 
+predict_points 287.5 162.0 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.0391693115234375 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.040891408920288086 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.039000511169433594 seconds 
+predict_points 372.0 231.0 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.03889608383178711 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.04188799858093262 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.04086923599243164 seconds 
+predict_points 505.5 198.0 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.0424957275390625 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.03989434242248535 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.04059123992919922 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.03825020790100098 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.040895700454711914 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.03820967674255371 seconds 
+predict_points 156.0 287.5 
+labels_points 591.0 303.5 
+snow_3.jpg 0.03860735893249512 seconds 
+predict_points 236.5 247.5 379.0 228.5 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.04089069366455078 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.041382551193237305 seconds 
+predict_points 340.5 245.0 
+labels_points 339.0 252.5 
+snow_6.jpg 0.0405728816986084 seconds 
+predict_points 132.5 58.5 
+labels_points 131.0 60.5 
+snow_7.jpg 0.040616750717163086 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.039597272872924805 seconds 
+predict_points 113.5 66.0 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.038896799087524414 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.03965401649475098 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.03858613967895508 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.04119157791137695 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.039900779724121094 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.03889608383178711 seconds 
+predict_points 156.5 87.5 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.04838395118713379 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.03889608383178711 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.04189133644104004 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.0404210090637207 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.04088997840881348 seconds 
+predict_points 
+labels_points -1.0 
+haar-frontalFace 109
+fog_1.jpg 0.3592848777770996 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.00489044189453125 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.03392434120178223 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.007973432540893555 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.007979154586791992 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.0029921531677246094 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.003989219665527344 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.01595759391784668 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.0498661994934082 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.026924848556518555 seconds 
+predict_points 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.008642911911010742 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.007981061935424805 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.000997781753540039 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.004988431930541992 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.004985809326171875 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.00598454475402832 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.0029897689819335938 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.00499272346496582 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.0077037811279296875 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.004986763000488281 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.051860809326171875 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.014960050582885742 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.020613431930541992 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.04786872863769531 seconds 
+predict_points 453.5 267.5 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.026264429092407227 seconds 
+predict_points 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.026702880859375 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.0169522762298584 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.0163118839263916 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.013963699340820312 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.05020856857299805 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.017667531967163086 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.04188680648803711 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.022422313690185547 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.027922868728637695 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.026012182235717773 seconds 
+predict_points 121.5 165.5 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.017952919006347656 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.03660249710083008 seconds 
+predict_points 94.0 216.0 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.012717008590698242 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.006982564926147461 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.03092050552368164 seconds 
+predict_points 189.0 155.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.005278587341308594 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.016956567764282227 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.022936105728149414 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.0049877166748046875 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.0059833526611328125 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.02991962432861328 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.004987239837646484 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.026927709579467773 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.027925491333007812 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.012965202331542969 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.10379147529602051 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.021646976470947266 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.0696568489074707 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.013962745666503906 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.006489992141723633 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.0049855709075927734 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.0039958953857421875 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.009724855422973633 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.013219594955444336 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.008693218231201172 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.015956640243530273 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.003989219665527344 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.008983373641967773 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.003638029098510742 seconds 
+predict_points 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.008750200271606445 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.010971307754516602 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.01596212387084961 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.03062748908996582 seconds 
+predict_points 412.0 220.0 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.004983663558959961 seconds 
+predict_points 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.01894974708557129 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.04112553596496582 seconds 
+predict_points 632.5 332.5 427.5 334.5 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.003988981246948242 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.0042877197265625 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.0029909610748291016 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.017952919006347656 seconds 
+predict_points 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.007735729217529297 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.02246999740600586 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.031915903091430664 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.006979942321777344 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.0299224853515625 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.021941184997558594 seconds 
+predict_points 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.003989696502685547 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.027927875518798828 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.039422035217285156 seconds 
+predict_points 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.02823638916015625 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.005877017974853516 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.0029833316802978516 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.04188990592956543 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.019946813583374023 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.021941184997558594 seconds 
+predict_points 155.5 235.5 
+labels_points 591.0 303.5 
+snow_3.jpg 0.0349118709564209 seconds 
+predict_points 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.019690513610839844 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.04176831245422363 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.003988504409790039 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.006981611251831055 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.004986763000488281 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.017665624618530273 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.04488396644592285 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.0049855709075927734 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.04188799858093262 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.004987955093383789 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.04126167297363281 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.04288482666015625 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.04288530349731445 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.02393627166748047 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points -1.0 
+haar-profileFace 109
+fog_1.jpg 0.11649203300476074 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.009977102279663086 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.03088521957397461 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.011969804763793945 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.009971857070922852 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.003991365432739258 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.005084991455078125 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.02892899513244629 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.05086541175842285 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.042885541915893555 seconds 
+predict_points 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.002991914749145508 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.016954421997070312 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.020943880081176758 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.005984067916870117 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.01595759391784668 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.007978677749633789 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.006635189056396484 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.011317014694213867 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.014960050582885742 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.004987239837646484 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.09773826599121094 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.025108814239501953 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.01795172691345215 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.05684804916381836 seconds 
+predict_points 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.03186488151550293 seconds 
+predict_points 274.0 366.0 443.0 315.0 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.031125545501708984 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.021942853927612305 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.01994943618774414 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.019947052001953125 seconds 
+predict_points 270.5 194.5 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.05285811424255371 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.01795220375061035 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.04188799858093262 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.0236053466796875 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.0282590389251709 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.034410953521728516 seconds 
+predict_points 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.026930570602416992 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.03889608383178711 seconds 
+predict_points 410.5 341.5 32.5 302.5 453.0 361.0 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.016968250274658203 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.004987239837646484 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.04288482666015625 seconds 
+predict_points 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.024934053421020508 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.030919790267944336 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.004995584487915039 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.006975650787353516 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.03602004051208496 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.007981538772583008 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.0359039306640625 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.03989577293395996 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.007978677749633789 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.021941661834716797 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.1504197120666504 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.035912275314331055 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.10790562629699707 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.01795220375061035 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.006875276565551758 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.006981849670410156 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.0059833526611328125 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.014681339263916016 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.02393507957458496 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.014960050582885742 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.02293872833251953 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.004986763000488281 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.011968374252319336 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.004986286163330078 seconds 
+predict_points 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.012965679168701172 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.019946575164794922 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.022938251495361328 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.04886937141418457 seconds 
+predict_points 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.006981372833251953 seconds 
+predict_points 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.02237725257873535 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.05285906791687012 seconds 
+predict_points 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.00498652458190918 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.0059833526611328125 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.006084442138671875 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.02980494499206543 seconds 
+predict_points 200.5 163.5 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.011314153671264648 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.03690171241760254 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.03789830207824707 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.037549495697021484 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.028277158737182617 seconds 
+predict_points 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.005312442779541016 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.032914161682128906 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.03345823287963867 seconds 
+predict_points 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.05186128616333008 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.004986763000488281 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.05285930633544922 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.030916452407836914 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.03291201591491699 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.04186058044433594 seconds 
+predict_points 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.026290416717529297 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.03356194496154785 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.005337238311767578 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.0069811344146728516 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.004987001419067383 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.003988981246948242 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.02719402313232422 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.05685162544250488 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.04986906051635742 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.004986286163330078 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.04036879539489746 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.049866676330566406 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.041887521743774414 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.021944046020507812 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.004988193511962891 seconds 
+predict_points 
+labels_points -1.0 
+LBP-profileFace 109
+fog_1.jpg 0.1391310691833496 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.0069806575775146484 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.016889095306396484 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.005986213684082031 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.004983425140380859 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.0019953250885009766 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.0009970664978027344 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.00698089599609375 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.02069234848022461 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.013406515121459961 seconds 
+predict_points 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.0009975433349609375 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.007979631423950195 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.012964010238647461 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.002991914749145508 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.002992391586303711 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.007978439331054688 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.006981372833251953 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.0019948482513427734 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.008674383163452148 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.001299142837524414 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.02293848991394043 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.00399017333984375 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.004988670349121094 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.012965202331542969 seconds 
+predict_points 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.006981849670410156 seconds 
+predict_points 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.006990194320678711 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.003983736038208008 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.004987001419067383 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.0029926300048828125 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.012965202331542969 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.003988504409790039 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.0109710693359375 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.003989458084106445 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.007978439331054688 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.005984306335449219 seconds 
+predict_points 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.005340099334716797 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.006982088088989258 seconds 
+predict_points 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.0029914379119873047 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.0009970664978027344 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.008977174758911133 seconds 
+predict_points 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.0009965896606445312 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.0056610107421875 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.0053098201751708984 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.000997304916381836 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.0074062347412109375 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.001995086669921875 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.005983591079711914 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.008975982666015625 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.000997781753540039 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.003989458084106445 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.0388951301574707 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.008977174758911133 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.024934053421020508 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.003988027572631836 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.0009968280792236328 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.0019953250885009766 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.0010075569152832031 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.003983974456787109 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.009973764419555664 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.003989696502685547 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.0069811344146728516 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.0009963512420654297 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.003989696502685547 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.001453399658203125 seconds 
+predict_points 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.00498199462890625 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.006981611251831055 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.008976936340332031 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.012965202331542969 seconds 
+predict_points 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.0009970664978027344 seconds 
+predict_points 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.00997304916381836 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.016954421997070312 seconds 
+predict_points 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.003989219665527344 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.0019953250885009766 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.003989219665527344 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.011967897415161133 seconds 
+predict_points 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.006982326507568359 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.01595592498779297 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.008975982666015625 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.001995086669921875 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.007979393005371094 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.007977962493896484 seconds 
+predict_points 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.000997304916381836 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.009973764419555664 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.007977962493896484 seconds 
+predict_points 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.019025325775146484 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.0009980201721191406 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.001993417739868164 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.011967897415161133 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.009974002838134766 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.005983591079711914 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.00897979736328125 seconds 
+predict_points 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.009495019912719727 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.000997781753540039 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.0019948482513427734 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.0009968280792236328 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.004987001419067383 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.011967897415161133 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.001995563507080078 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.009972572326660156 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.00997304916381836 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.011968135833740234 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.009972810745239258 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.00598454475402832 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.0009965896606445312 seconds 
+predict_points 
+labels_points -1.0 
+LBP-FrontalFace 109
+fog_1.jpg 0.10302066802978516 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.004987239837646484 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.01586127281188965 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.0039577484130859375 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.0047032833099365234 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.0009913444519042969 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.001995086669921875 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.00700068473815918 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.023923158645629883 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.01667308807373047 seconds 
+predict_points 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.001991748809814453 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.00698089599609375 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.010680675506591797 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.000997781753540039 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.002991914749145508 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.0069806575775146484 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.006982564926147461 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.0009970664978027344 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.004342555999755859 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.007978439331054688 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.001995086669921875 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.02393627166748047 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.003989219665527344 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.0059833526611328125 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.014283180236816406 seconds 
+predict_points 453.5 268.5 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.007982254028320312 seconds 
+predict_points 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.007975339889526367 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.00598454475402832 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.0038373470306396484 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.014960050582885742 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.005984067916870117 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.011967897415161133 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.0069811344146728516 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.007979154586791992 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.0069811344146728516 seconds 
+predict_points 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.005983591079711914 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.008976221084594727 seconds 
+predict_points 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.0019948482513427734 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.011490583419799805 seconds 
+predict_points 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.0009970664978027344 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.006981372833251953 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.007527351379394531 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.0009975433349609375 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.0019941329956054688 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.008975982666015625 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.001995563507080078 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.00698089599609375 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.008975744247436523 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.0019948482513427734 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.003985881805419922 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.040891170501708984 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.008975505828857422 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.027934789657592773 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.0049800872802734375 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.0011606216430664062 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.004982948303222656 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.009974002838134766 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.003988504409790039 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.008459329605102539 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.0009975433349609375 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.003988504409790039 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.0019953250885009766 seconds 
+predict_points 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.006981372833251953 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.0059850215911865234 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.006980419158935547 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.011967658996582031 seconds 
+predict_points 412.0 218.0 319.0 297.0 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.0019953250885009766 seconds 
+predict_points 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.012965202331542969 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.01695394515991211 seconds 
+predict_points 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.004987478256225586 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.0019943714141845703 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.004986286163330078 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.012966156005859375 seconds 
+predict_points 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.005984067916870117 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.013962507247924805 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.008975744247436523 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.0019948482513427734 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.010972023010253906 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.007977724075317383 seconds 
+predict_points 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.001993894577026367 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.009974241256713867 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.008975744247436523 seconds 
+predict_points 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.015964269638061523 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.001990795135498047 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.0009968280792236328 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.012964725494384766 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.010971784591674805 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.0069811344146728516 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.009974241256713867 seconds 
+predict_points 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.006687164306640625 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.008275985717773438 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.0019986629486083984 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.0009975433349609375 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.005991458892822266 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.012960195541381836 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.000997781753540039 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.01296544075012207 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.0018651485443115234 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.0109710693359375 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.010970115661621094 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.012965679168701172 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.006984710693359375 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.000997781753540039 seconds 
+predict_points 
+labels_points -1.0 
+viola-jones 109
+fog_1.jpg 0.1031033992767334 seconds 
+predict_points 
+labels_points -1.0 
+fog_10.jpg 0.005983114242553711 seconds 
+predict_points 
+labels_points 595.0 202.0 
+fog_11.jpg 0.028954029083251953 seconds 
+predict_points 
+labels_points 1180.5 238.5 1282.0 279.0 
+fog_12.jpg 0.009194374084472656 seconds 
+predict_points 
+labels_points 714.5 334.5 
+fog_13.png 0.0075953006744384766 seconds 
+predict_points 
+labels_points 571.5 355.5 
+fog_14.jpg 0.001994609832763672 seconds 
+predict_points 
+labels_points 123.5 69.5 
+fog_15.jpg 0.004986763000488281 seconds 
+predict_points 
+labels_points 200.0 123.5 244.0 118.5 225.0 128.5 
+fog_16.jpg 0.01894998550415039 seconds 
+predict_points 
+labels_points 943.0 377.5 1106.5 459.0 
+fog_17.jpg 0.05336308479309082 seconds 
+predict_points 
+labels_points 348.5 834.5 742.5 812.0 1113.5 670.5 1323.0 719.0 
+fog_18.jpg 0.029778242111206055 seconds 
+predict_points 
+labels_points 291.0 310.5 433.0 281.5 532.5 313.0 
+fog_19.jpg 0.001995086669921875 seconds 
+predict_points 
+labels_points -1.0 
+fog_2.jpg 0.013702392578125 seconds 
+predict_points 
+labels_points 204.0 160.5 99.0 152.5 
+fog_20.jpg 0.010968208312988281 seconds 
+predict_points 
+labels_points 1170.0 322.0 
+fog_3.jpg 0.0019936561584472656 seconds 
+predict_points 
+labels_points 92.5 91.5 
+fog_4.jpg 0.009973526000976562 seconds 
+predict_points 
+labels_points -1.0 
+fog_5.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points -1.0 
+fog_6.jpg 0.0063934326171875 seconds 
+predict_points 
+labels_points 291.5 114.5 376.5 95.0 601.0 103.0 
+fog_7.jpg 0.002992391586303711 seconds 
+predict_points 
+labels_points 33.0 69.0 
+fog_8.jpg 0.008975028991699219 seconds 
+predict_points 
+labels_points 323.0 195.0 
+fog_9.jpg 0.00897669792175293 seconds 
+predict_points 
+labels_points -1.0 
+night_1.jpg 0.00474238395690918 seconds 
+predict_points 
+labels_points 134.0 85.0 255.5 91.0 188.5 37.0 170.5 28.5 253.0 45.0 208.5 39.0 
+night_10.jpg 0.07059216499328613 seconds 
+predict_points 
+labels_points 1345.5 1020.5 675.5 1202.0 669.0 804.5 864.5 596.0 754.5 743.5 1737.5 1014.5 1810.0 1180.5 1434.0 576.0 1059.5 573.0 971.0 582.0 349.5 668.5 463.5 509.5 337.5 1148.0 1672.0 491.0 
+night_11.jpg 0.02031540870666504 seconds 
+predict_points 
+labels_points 895.5 402.5 851.0 435.5 412.0 342.5 504.5 276.5 400.0 367.0 112.5 437.0 238.0 407.0 217.0 367.5 
+night_12.jpg 0.017951011657714844 seconds 
+predict_points 
+labels_points 583.0 484.0 498.5 427.0 639.0 439.0 666.5 399.5 283.0 430.5 250.0 354.0 506.0 388.5 132.5 615.0 156.5 379.5 471.5 477.0 351.5 390.0 426.0 426.5 49.0 411.0 158.0 297.0 240.5 309.0 488.5 310.5 800.0 322.0 
+night_13.jpg 0.04828524589538574 seconds 
+predict_points 453.0 268.0 
+labels_points 452.5 268.0 642.5 388.5 813.5 305.0 754.5 233.5 653.0 150.0 235.0 390.5 336.0 361.0 562.5 325.0 627.5 262.5 
+night_14.jpg 0.0249330997467041 seconds 
+predict_points 268.0 367.0 
+labels_points 439.0 318.0 267.0 367.5 180.5 373.5 292.0 290.0 310.5 229.0 99.0 340.0 134.5 256.5 226.0 268.0 222.5 226.5 381.5 373.0 
+night_15.jpg 0.026928186416625977 seconds 
+predict_points 
+labels_points 225.5 303.0 
+night_16.jpg 0.018949270248413086 seconds 
+predict_points 
+labels_points 589.0 246.5 880.0 245.5 846.5 301.0 403.5 324.0 332.0 346.5 489.0 329.0 163.5 286.5 433.5 189.5 
+night_17.jpg 0.01754617691040039 seconds 
+predict_points 
+labels_points 745.5 275.5 831.5 266.0 560.5 283.5 163.0 287.0 265.5 277.0 465.5 284.0 296.0 247.5 659.5 273.0 
+night_18.jpg 0.014960050582885742 seconds 
+predict_points 
+labels_points 393.5 156.0 322.0 82.5 366.0 67.5 220.0 164.0 420.0 59.0 430.0 71.5 278.5 86.0 
+night_19.jpg 0.04089045524597168 seconds 
+predict_points 
+labels_points 321.5 343.0 
+night_2.jpg 0.015958547592163086 seconds 
+predict_points 
+labels_points 379.0 250.5 326.5 235.0 455.0 278.0 200.5 218.5 134.0 204.5 259.0 205.5 442.0 179.5 452.5 194.0 328.5 129.5 
+night_20.jpg 0.035903215408325195 seconds 
+predict_points 
+labels_points 340.0 446.5 376.0 375.0 207.5 376.0 234.0 417.0 111.0 372.0 143.0 407.5 462.0 399.0 
+night_3.jpg 0.017951250076293945 seconds 
+predict_points 
+labels_points 409.5 543.5 449.5 460.5 296.5 509.0 270.5 466.0 241.5 582.5 228.0 438.5 322.5 441.0 110.5 506.5 201.5 501.5 166.5 459.5 548.5 490.5 
+night_4.jpg 0.022938966751098633 seconds 
+predict_points 
+labels_points 285.5 299.5 213.5 303.0 176.0 294.5 113.0 303.5 86.5 331.0 46.0 333.5 73.0 305.0 33.5 300.5 93.0 301.0 76.5 284.0 5.0 292.5 
+night_5.jpg 0.02593064308166504 seconds 
+predict_points 122.0 165.0 
+labels_points 45.0 157.5 60.5 126.5 118.5 162.5 156.5 134.5 264.0 161.0 382.5 184.5 346.0 188.5 467.0 175.5 588.5 162.5 
+night_6.jpg 0.018953561782836914 seconds 
+predict_points 
+labels_points 399.0 395.0 890.5 427.0 128.5 145.5 271.0 236.5 377.0 232.5 566.5 342.5 634.0 291.5 572.0 240.0 547.5 331.5 601.0 309.0 451.0 193.5 822.5 295.5 778.5 304.0 952.5 283.0 
+night_7.jpg 0.03132057189941406 seconds 
+predict_points 93.5 215.5 
+labels_points 31.5 304.5 241.0 359.0 96.0 216.5 598.0 402.5 408.5 343.5 452.0 363.0 345.5 248.0 271.0 227.5 292.5 281.5 307.5 214.5 397.5 282.5 529.0 269.5 
+night_8.jpg 0.012253761291503906 seconds 
+predict_points 
+labels_points 83.0 225.0 104.0 174.0 182.5 174.5 216.0 190.0 341.5 227.0 182.5 202.0 43.0 234.0 
+night_9.jpg 0.004986286163330078 seconds 
+predict_points 
+labels_points 61.5 81.5 103.5 109.0 128.5 100.5 142.5 138.5 181.0 158.0 184.5 101.5 153.5 104.0 261.5 120.5 244.5 116.5 209.0 95.5 248.0 100.5 
+rain_1.jpg 0.03265953063964844 seconds 
+predict_points 189.0 155.0 
+labels_points 362.0 89.5 190.0 155.0 
+rain_10.jpg 0.0049860477447509766 seconds 
+predict_points 
+labels_points 74.5 26.0 136.0 37.0 
+rain_11.jpg 0.018949031829833984 seconds 
+predict_points 
+labels_points -1.0 
+rain_133.jpeg 0.022938966751098633 seconds 
+predict_points 
+labels_points 866.5 177.0 594.0 56.5 734.5 60.0 555.0 42.5 
+rain_14.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points -1.0 
+rain_15.jpg 0.006670475006103516 seconds 
+predict_points 
+labels_points 9.5 26.0 102.0 33.5 
+rain_16.jpg 0.030234813690185547 seconds 
+predict_points 
+labels_points 379.0 135.5 300.5 151.0 531.0 174.5 
+rain_17.jpg 0.0069806575775146484 seconds 
+predict_points 
+labels_points 152.0 55.0 
+rain_18.jpg 0.026927947998046875 seconds 
+predict_points 
+labels_points 286.0 115.0 95.5 176.0 
+rain_19.jpg 0.03091740608215332 seconds 
+predict_points 
+labels_points 546.5 170.5 
+rain_2.jpg 0.006981849670410156 seconds 
+predict_points 
+labels_points -1.0 
+rain_20.jpg 0.014973163604736328 seconds 
+predict_points 
+labels_points 80.0 114.5 164.0 57.0 209.5 135.5 
+rain_3.jpg 0.11669230461120605 seconds 
+predict_points 
+labels_points 321.0 461.5 
+rain_4.jpg 0.030433177947998047 seconds 
+predict_points 
+labels_points 431.5 203.0 
+rain_5.jpg 0.08377599716186523 seconds 
+predict_points 
+labels_points -1.0 
+rain_6.jpg 0.01647472381591797 seconds 
+predict_points 
+labels_points 354.5 118.0 33.5 91.0 
+rain_7.jpg 0.003989458084106445 seconds 
+predict_points 
+labels_points 164.0 58.5 129.0 64.0 228.0 75.5 
+rain_8.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points -1.0 
+rain_9.jpg 0.00498652458190918 seconds 
+predict_points 
+labels_points 140.5 79.5 87.0 121.0 208.0 34.0 
+sandstorm_.jpg 0.010973215103149414 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_1.jpg 0.019946575164794922 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_10.jpg 0.009973287582397461 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_11.jpg 0.01795172691345215 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_12.jpg 0.0039899349212646484 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_13.jpg 0.010970115661621094 seconds 
+predict_points 
+labels_points 300.5 113.0 291.5 113.5 
+sandstorm_14.jpg 0.0029921531677246094 seconds 
+predict_points 
+labels_points 58.5 104.5 182.0 71.0 134.5 109.0 
+sandstorm_15.jpg 0.010970830917358398 seconds 
+predict_points 
+labels_points 299.0 253.5 
+sandstorm_16.jpg 0.012965679168701172 seconds 
+predict_points 
+labels_points 363.0 203.0 
+sandstorm_17.jpg 0.018949031829833984 seconds 
+predict_points 
+labels_points 268.5 211.0 
+sandstorm_18.jpg 0.03889608383178711 seconds 
+predict_points 411.5 215.5 
+labels_points 417.0 213.0 
+sandstorm_19.jpg 0.005679607391357422 seconds 
+predict_points 
+labels_points 40.0 59.5 87.5 50.0 101.5 77.0 276.5 42.0 237.0 48.5 
+sandstorm_2.jpeg 0.023936033248901367 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_20.jpg 0.03752636909484863 seconds 
+predict_points 427.0 335.0 
+labels_points 423.5 337.0 595.5 235.5 191.0 213.0 
+sandstorm_4.jpeg 0.003989458084106445 seconds 
+predict_points 
+labels_points 461.0 100.5 
+sandstorm_5.jpg 0.004070758819580078 seconds 
+predict_points 
+labels_points -1.0 
+sandstorm_6.jpg 0.004986763000488281 seconds 
+predict_points 
+labels_points 669.0 194.5 732.0 215.0 
+sandstorm_7.jpg 0.019946575164794922 seconds 
+predict_points 
+labels_points 197.0 162.0 330.0 275.5 
+sandstorm_8.jpg 0.007979631423950195 seconds 
+predict_points 
+labels_points 240.5 176.5 
+sandstorm_9.jpg 0.0278167724609375 seconds 
+predict_points 
+labels_points -1.0 
+snow_1.jpg 0.03291440010070801 seconds 
+predict_points 
+labels_points 868.0 216.5 526.0 266.5 395.5 184.5 313.5 274.5 
+snow_10.jpg 0.00598454475402832 seconds 
+predict_points 
+labels_points 69.5 127.0 
+snow_11.jpg 0.030919551849365234 seconds 
+predict_points 
+labels_points 161.0 215.5 898.5 218.5 1066.0 214.0 
+snow_12.jpg 0.025936126708984375 seconds 
+predict_points 
+labels_points 371.0 236.0 358.0 142.5 169.0 179.0 
+snow_13.jpg 0.0039865970611572266 seconds 
+predict_points 
+labels_points -1.0 
+snow_14.jpg 0.02593517303466797 seconds 
+predict_points 
+labels_points 1229.5 302.5 1055.5 224.0 347.5 153.0 
+snow_15.jpg 0.0309145450592041 seconds 
+predict_points 
+labels_points 122.0 202.0 343.5 254.5 505.0 204.0 
+snow_16.jpg 0.03490757942199707 seconds 
+predict_points 
+labels_points 1404.5 336.5 
+snow_17.jpg 0.0049893856048583984 seconds 
+predict_points 
+labels_points -1.0 
+snow_18.jpg 0.0029921531677246094 seconds 
+predict_points 
+labels_points 143.0 46.0 
+snow_19.jpg 0.04288840293884277 seconds 
+predict_points 
+labels_points 381.0 261.0 
+snow_2.jpg 0.0219419002532959 seconds 
+predict_points 
+labels_points -1.0 
+snow_20.jpg 0.027924537658691406 seconds 
+predict_points 
+labels_points 591.0 303.5 
+snow_3.jpg 0.03390932083129883 seconds 
+predict_points 
+labels_points 461.0 404.0 333.0 475.5 722.0 335.5 1137.5 296.5 
+snow_4.jpg 0.019459962844848633 seconds 
+predict_points 
+labels_points 527.5 273.0 261.5 259.0 924.5 251.0 
+snow_5.jpg 0.03390955924987793 seconds 
+predict_points 
+labels_points 339.0 252.5 
+snow_6.jpg 0.003988981246948242 seconds 
+predict_points 
+labels_points 131.0 60.5 
+snow_7.jpg 0.005983829498291016 seconds 
+predict_points 
+labels_points 134.0 72.0 
+snow_8.jpg 0.003988742828369141 seconds 
+predict_points 
+labels_points 176.5 82.5 113.0 66.0 
+snow_9.jpg 0.004987478256225586 seconds 
+predict_points 
+labels_points 133.5 93.0 
+beach_!.png 0.02094554901123047 seconds 
+predict_points 
+labels_points -1.0 
+beach_.jpeg 0.04837989807128906 seconds 
+predict_points 
+labels_points 234.5 851.0 1339.5 914.0 1056.5 930.0 793.0 497.0 793.5 382.5 488.0 586.5 581.0 543.5 285.0 682.5 114.5 804.0 138.0 660.0 273.0 506.5 370.5 523.0 440.0 505.5 
+beach_2.jpg 0.003989696502685547 seconds 
+predict_points 
+labels_points 134.0 120.0 176.0 132.0 201.0 119.0 245.5 125.0 
+beach_3.jpg 0.04288506507873535 seconds 
+predict_points 
+labels_points 184.0 883.5 56.5 835.5 322.0 774.5 412.0 725.5 531.0 676.0 1284.0 755.0 1332.5 806.5 
+beach_4.jpg 0.0051898956298828125 seconds 
+predict_points 
+labels_points 157.0 91.5 78.5 152.5 103.5 153.5 
+beach_5.jpg 0.03390812873840332 seconds 
+predict_points 
+labels_points -1.0 
+beach_6.jpg 0.041506052017211914 seconds 
+predict_points 
+labels_points 1281.5 752.0 1327.0 806.0 1192.5 812.5 850.0 751.5 604.5 822.0 188.0 881.0 57.0 835.5 81.5 939.5 415.0 727.0 530.0 677.0 
+beach_7.jpg 0.03490710258483887 seconds 
+predict_points 
+labels_points 148.5 737.0 317.0 720.5 458.0 751.0 
+beach_8.jpg 0.021942853927612305 seconds 
+predict_points 
+labels_points -1.0 
+beach_9.jpg 0.0039899349212646484 seconds 
+predict_points 
+labels_points -1.0 
