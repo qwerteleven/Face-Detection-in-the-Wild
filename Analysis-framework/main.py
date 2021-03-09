@@ -10,17 +10,11 @@ import matplotlib.pyplot as plt
 from hof.face_detectors import RfcnResnet101FaceDetector, SSDMobileNetV1FaceDetector, FasterRCNNFaceDetector, \
     YOLOv2FaceDetector, TinyYOLOFaceDetector
 
-images = []
-grays = []
-labels = []  # points of faces
-files = []  # labels names
-filesnames = []  # inputs names
 predict = []
 times = []
 threshold = 0.3
 
 os.environ['MXNET_CUDNN_AUTOTUNE_DEFAULT'] = '0'
-
 path = "./dataset/"
 path_labels = "./labels/face_labels.txt"
 
@@ -172,7 +166,6 @@ def load_result(file_):
         method_acc = []
         method_predict = []
         method_time = []
-        accs = []
 
         method, n = line.split(" ")
         method_names.append(method)
@@ -232,6 +225,7 @@ def accuracy_MSE(labels_points, predict_points):
 
     # Crop list with the best accuracys in predictions for match in
     # size with predict_points
+
     if len(accuracys) > len(predict_points):
         accuracys.sort()
         accuracys = accuracys[:len(predict_points)]
@@ -353,14 +347,17 @@ def Viola_Jones_():
 
 
 def start_thead(target):
+    """
+    to prevent the models from getting the resources of
+    the graph in tensorflow 1. *, they are launched as threads
 
+    """
     p = multiprocessing.Process(target=target)
     p.start()
     p.join()
 
 
-def make_analysis(path="./dataset/", path_labels="./labels/face_labels.txt", threshold=0.3):
-
+def make_analysis():
     """
     
     By default:
@@ -394,7 +391,5 @@ files, labels = load_labels(path_labels)
 images, grays, filesnames = load_images_from_folder(path)
 
 if __name__ == '__main__':
-
     display_results("./results/face_results.txt")
-
     # make_analysis()

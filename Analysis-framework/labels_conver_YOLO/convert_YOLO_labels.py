@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 import os
 
 
@@ -7,7 +6,6 @@ def generate_labels_file(folder_images, folder_labels):
 
     detections, labels_img = load_labels_data(folder_labels)
     img_shapes, img_names = load_img_data(folder_images)
-    
     labels_point_center(img_names, img_shapes, labels_img, detections)
 
 
@@ -19,16 +17,16 @@ def labels_point_center(img_names, img_shapes, labels_img, detections):
     """
     
     center_point = []
-    
+
     for img_name in img_names:
-        points.append(img_name)
+        points = [img_name]
         if img_name in labels_img:
             index = labels_img.index(img_name)
             points = detections[index]
             width, height = img_shapes[index]
             
             for i in range(0, len(points), 2):
-                x = width  * points[i]
+                x = width * points[i]
                 y = height * points[i + 1]
                 points.append(str(round(x, 2)))
                 points.append(str(round(y, 2)))
@@ -37,7 +35,7 @@ def labels_point_center(img_names, img_shapes, labels_img, detections):
                 
         center_point.append(points)
     
-    write_file("face_labels.txt", center_point_face)
+    write_file("face_labels.txt", center_point)
     
     
 def write_file(file_, instances):
@@ -108,9 +106,4 @@ def load_labels_data(folder):
             labels = []
             f.close()
             
-    return p, labels_img_names
-                    
-                    
-                          
-                    
-
+    return p, img_names

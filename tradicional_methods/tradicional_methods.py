@@ -1,6 +1,4 @@
 import cv2
-import numpy as np
-import os
 import time
 from time import time
 
@@ -13,7 +11,7 @@ def img_detection(img, index, faces):
     """
     
     for (x, y, w, h) in faces:
-       img = cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
+        img = cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
     
     filename = './prediction/' + str(index) + '_test.jpg'
     cv2.imwrite(filename, img)
