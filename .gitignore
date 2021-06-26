@@ -1,0 +1,10 @@
+**/camera_detection
+**/prediction_retinaFace
+**/predict_Faces
+**/Analysis-framework/*.gz
+**/Analysis-framework/weights_models
+**/Analysis-framework/models
+**/Analysis-framework/dataset
+**/__pycache__
+**/.idea
+**/.gita*
