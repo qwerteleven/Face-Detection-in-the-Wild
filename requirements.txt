@@ -1,0 +1,6 @@
+numpy
+mxnet
+opencv-python
+cython
+onnxruntime
+insightface
