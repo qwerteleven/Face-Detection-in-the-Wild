@@ -13,7 +13,7 @@ def img_detection(faces, img):
     if faces is not None:
         for i in range(faces.shape[0]):
             box = faces[i].astype(np.int)
-            #color = (255,0,0)   # changes color landmark
+            #color = (255, 0, 0)   # changes color landmark
             color = (0, 0, 255)
             cv2.rectangle(img, (box[0], box[1]), (box[2], box[3]), color, 2)
 
