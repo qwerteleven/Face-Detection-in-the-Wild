@@ -22,6 +22,16 @@ hyperface
 
 ```
 
+# Example Prediction
+
+
+|Ground True|Predicted|
+|-----------|---------|
+
+<img src="https://github.com/qwerteleven/face-detection/blob/main/img.jpg" width="370">  <img src="https://github.com/qwerteleven/face-detection/blob/main/t1_output.jpg" width="370"> 
+
+
+
 
 # Accuracy Predictions
 
@@ -38,15 +48,6 @@ hyperface
 |--------------|---------------|
 
 <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_by_image.png" width="370">  <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_predicted.png" width="370"> 
- 
-
-
-# Predictions
-
-|Faces by image|accumulate faces|
-|--------------|----------------|
-
-<img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_predicted.png" width="370">  <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_predicted_by_image.png" width="370"> 
  
    
 
