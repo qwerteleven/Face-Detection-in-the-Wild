@@ -31,13 +31,13 @@ hyperface
 <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Accuracy_by_image.png" width="370">  <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Accuracy_by_image.png" width="370"> 
 
 
-# Worst evaluations
+# Predicted Faces
 
  
 |Faces by image|Faces Predicted|
 |--------------|---------------|
 
-<img src="https://github.com/qwertelevenface-detection/blob/main/grafics/Faces_by_image.png" width="370">  <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_predicted.png" width="370"> 
+<img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_by_image.png" width="370">  <img src="https://github.com/qwerteleven/face-detection/blob/main/grafics/Faces_predicted.png" width="370"> 
  
 
 
