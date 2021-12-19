@@ -38,7 +38,7 @@ hyperface
 |Accuracy by image|Accuracy faces predicted|
 |-----------------|------------------------|
 
-<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/Accuracy_by_image.png" width="370">  | <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/Accuracy_by_image.png" width="370"> 
+<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/Accuracy_by_image.png" width="370">  | <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/Faces_predicted_by_image.png" width="370"> 
 
 
 # Accuracy Predictions By Method
@@ -75,5 +75,22 @@ hyperface
 |Times TM|Times DNN|
 |--------|---------|
 
-<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/timesDNN.png" width="370">  <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/timesTM.png" width="370">
+<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/times_DNN.png" width="370">  <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/grafics/times_TM.png" width="370">
  
+
+
+
+# Retina Face Inference
+
+
+## Fog
+
+
+|GT|Inference|
+|--|---------|
+
+
+<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/assets/fog/fog_6.jpg" width="370">  <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/assets/fog/6_test.jpg" width="370">
+
+
+
