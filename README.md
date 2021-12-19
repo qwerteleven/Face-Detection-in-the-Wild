@@ -112,7 +112,7 @@ hyperface
 |--|---------|
 
 
-<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/assets/rain/rain_10.jpg" width="370">  <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/assets/fog/10_test.jpg" width="370">
+<img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/assets/rain/rain_10.jpg" width="370">  <img src="https://github.com/qwerteleven/Face-Detection-in-the-Wild/blob/main/assets/rain/10_test.jpg" width="370">
 
 
 
